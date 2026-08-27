@@ -1,6 +1,6 @@
 #define MyAppName "KiCad RPC"
 #define MyAppVersion "1.0.0"
-#define MyAppPublisher "The Collector"
+#define MyAppPublisher "gorramin"
 #define MyAppExeName "KiCad-RPC.exe"
 
 [Setup]
