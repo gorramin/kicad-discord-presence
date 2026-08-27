@@ -47,7 +47,7 @@ Run the following command:
 
 You should see a folder name `dist` that have `KiCad-RPC.exe` in `release`
 
-And for users you can download the setup file directly from [KiCad RPC setup]()
+And for users you can download the setup file directly from [KiCad RPC setup](https://gorramin.itch.io/kicad-discord-rpc)
 ## Features
 
 - Detects the active KiCad tool and shows it on Discord.
@@ -90,6 +90,6 @@ The application communicates with the Discord client through Discord's IPC pipe.
 Yes. The application does not communicate with the internet. It communicates locally with the Discord client through its IPC pipe and uses Windows APIs to detect KiCad activity. It does not perform privileged memory reading or writing.
 ## Support
 
-Thank you for visiting! If you like this project, don't forget to give the repository a ⭐. And if you're feeling extra generous, you can [buy me a coffee]()
+Thank you for visiting! If you like this project, don't forget to give the repository a ⭐. And if you're feeling extra generous, you can [buy me a coffee](https://gorramin.itch.io/kicad-discord-rpc)
 
 <img src="https://media.istockphoto.com/id/1133825734/vector/homeless-emoticon.jpg?s=612x612&w=0&k=20&c=H81N73Wx6_uvB7MkkHqitVIohUBzp6jys3EBRaasAxg=" width="300">
