@@ -16,13 +16,13 @@ Clone the Repository
   git clone <THIS_REPO_URL>
 ```
 
-Install the required Python packages listed in requirements.txt
+Install the required Python packages listed in `requirements.txt`
 
 ```bash
   pip install -r requirements.txt
 ```
 
-For development and testing, you can run the application directly from the source code
+For **development** and testing, you can run the application directly from the source code
 
 ```bash
   python src/main.py
@@ -47,7 +47,7 @@ Run the following command:
 
 You should see a folder name `dist` that have `KiCad-RPC.exe` in `release`
 
-And for users you can download the setup file directly from [KiCad RPC setup](https://gorramin.itch.io/kicad-discord-rpc)
+And for **users** you can download the setup file directly from [KiCad RPC setup](https://gorramin.itch.io/kicad-discord-rpc)
 ## Features
 
 - Detects the active KiCad tool and shows it on Discord.
