@@ -45,7 +45,7 @@ Run the following command:
   pyinstaller --clean --onefile --noconsole --name "KiCad-RPC" --icon "..\src\assets\kicad-rpc-icon.ico" --add-data "..\src\assets\kicad-rpc-icon.ico;assets" ..\src\main.py
 ```
 
-You should see a folder name `dist` that have `KiCad-RPC.exe` in `release`
+Inside `\release` you should see a folder name `\dist` that have `KiCad-RPC.exe`
 
 And for **users** you can download the setup file directly from [KiCad RPC setup](https://gorramin.itch.io/kicad-discord-rpc)
 ## Features
