@@ -56,12 +56,6 @@ And for **users** you can download the setup file directly from [KiCad RPC setup
 - System tray icon with connection status and exit button.
 - Lightweight and runs quietly in the background.
 
-
-## Performance Tests
-
-Not Yet
-
-
 ## Demo
 
 Discord presence overview
